@@ -1,5 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/murtekbey?style=social)](https://github.com/murtekbey?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/murtekbey?style=social)
+[![GitHub stars](https://img.shields.io/github/stars/murtekbey?style=social)](https://github.com/murtekbey?tab=repositories)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=murtekbey.visitor-badge)](https://github.com/murtekbey)
 
 
