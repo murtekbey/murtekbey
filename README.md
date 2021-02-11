@@ -5,7 +5,7 @@
 
 ## Hi there 👋 <a href="https://www.linkedin.com/in/murtekbey/" target="_blank" rel="nofollow"><img alt="Murtekbey Linkedin" src="https://github.com/WaylonWalker/WaylonWalker/raw/main/icon/linkedin.png?raw=true"/></a>
 
-#### I graduated from Pamukkale University, French Language and Literature and continue to study at Anadolu University, Web Design and Coding. I have a good command of English and French languages. Now developing web and desktop software according to the needs of the companies as a freelance and working on specialize as full stack developer. 
+#### I graduated from Pamukkale University, French Language and Literature and continue to study at Anadolu University, Web Design and Coding. I have a good command of English and French languages. Now developing web and desktop software according to the needs of the companies as freelancer.
 
 #### I keep improving myself every day and trying to specialize as a full stack web developer. In the back-end part, work with frameworks such as nodejs(express) python(django), most of my days are spent working on specializing in JSON and RestAPI services and AngularJS. I am also making improvements by applying SOLID principles with C#. You could follow my repositories if u would like to know my works.
 
