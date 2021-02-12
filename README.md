@@ -8,8 +8,8 @@
 
 #### I keep improving myself every day and trying to specialize as a full stack web developer. In the back-end part, work with frameworks such as nodejs(express) python(django), most of my days are spent working on specializing in JSON and RestAPI services and AngularJS. I am also making improvements by applying SOLID principles with C#. You could follow my repositories if u would like to know my works.
 
-![Murtekbey's Github Stats](https://github-readme-stats.vercel.app/api?username=murtekbey&show_icons=true&theme=dark&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtekbey&layout=compact&theme=dark)
+![Murtekbey's Github Stats](https://github-readme-stats.vercel.app/api?username=murtekbey&show_icons=true&theme=dark&hide=prs&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtekbey&layout=compact&theme=dark&hide_border=true)
 
 
 
