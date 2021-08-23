@@ -1,6 +1,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/murtekbey?style=social)](https://github.com/murtekbey?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/murtekbey?style=social)](https://github.com/murtekbey?tab=repositories)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=murtekbey.visitor-badge)](https://github.com/murtekbey)
+[![Github visitors](https://komarev.com/ghpvc/?username=murtekbey)](https://github.com/murtekbey)
 
 ## Hi there 👋 <a href="https://www.linkedin.com/in/murtekbey/" target="_blank" rel="nofollow"><img alt="Murtekbey Linkedin" src="https://github.com/WaylonWalker/WaylonWalker/raw/main/icon/linkedin.png?raw=true"/></a>
 
