@@ -4,9 +4,9 @@
 
 ## Hi there 👋 <a href="https://www.linkedin.com/in/murtekbey/" target="_blank" rel="nofollow"><img alt="Murtekbey Linkedin" src="https://github.com/WaylonWalker/WaylonWalker/raw/main/icon/linkedin.png?raw=true"/></a>
 
-#### I graduated from Pamukkale University, French Language and Literature and continue to study at Anadolu University, Web Design and Coding. I have a good command of English and French languages. Now developing web and desktop software according to the needs of the companies as freelancer.
+#### Bachelor Degree of French Language and Literature and Web Design and Coding, Good command of French and English language, Developing software according to the needs of the companies.
 
-#### I keep improving myself every day and trying to specialize as a full stack web developer. In the back-end part, work with frameworks such as nodejs(express) python(django), most of my days are spent working on specializing in JSON and RestAPI services and AngularJS. I am also making improvements by applying SOLID principles with C#. You could follow my repositories if u would like to know my works.
+#### I keep improving myself every day and trying to specialize as a full stack. Work with frameworks with several coding language such as .NET Core, Spring, Django, most of my days are spent working on specializing in RestAPI services. I am also making improvements by applying SOLID principles with C#. You could follow my repositories if u would like to know my works.
 
 ![Murtekbey's Github Stats](https://github-readme-stats.vercel.app/api?username=murtekbey&show_icons=true&theme=dark&hide=prs&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtekbey&layout=compact&theme=dark&hide_border=true)
