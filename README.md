@@ -6,7 +6,7 @@
 
 #### Bachelor Degree of French Language and Literature and Web Design and Coding, Good command of French and English language, Developing software according to the needs of the companies.
 
-#### I keep improving myself every day and trying to specialize as a full stack. Work with frameworks with several coding language such as .NET Core, Spring, Django, most of my days are spent working on specializing in RestAPI services. I am also making improvements by applying SOLID principles with C#. You could follow my repositories if u would like to know my works.
+#### Working with frameworks with several coding language such as .NET Core, Spring, Django, most of my days are spent working on specializing in RestAPI services. I am also making improvements by applying SOLID principles. Follow my repositories if u would like to see my works.
 
 ![Murtekbey's Github Stats](https://github-readme-stats.vercel.app/api?username=murtekbey&show_icons=true&theme=dark&hide=prs&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtekbey&layout=compact&theme=dark&hide_border=true)
