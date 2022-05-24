@@ -4,9 +4,7 @@
 
 ## Hi there 👋 <a href="https://www.linkedin.com/in/murtekbey/" target="_blank" rel="nofollow"><img alt="Murtekbey Linkedin" src="https://github.com/WaylonWalker/WaylonWalker/raw/main/icon/linkedin.png?raw=true"/></a>
 
-#### Bachelor Degree of French Language and Literature and Web Design and Coding, Good command of French and English language, Developing software according to the needs of the companies.
-
-#### Working with frameworks with several coding language such as .NET Core, Spring, Django, most of my days are spent working on specializing in RestAPI services. I am also making improvements by applying SOLID principles. Follow my repositories if u would like to see my works.
+#### Currently working on development of microservices with several technologies. According to the requirements of the companies, development end to end projects with Enterprise Architecture and in accordance with solid principles as full stack developer. I continue to work on cloud computing.
 
 ![Murtekbey's Github Stats](https://github-readme-stats.vercel.app/api?username=murtekbey&show_icons=true&theme=dark&hide=prs&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtekbey&layout=compact&theme=dark&hide_border=true)
