@@ -1,4 +1,4 @@
-[![GitHub followers](https://img.shields.io/github/followers/murtekbey?style=social)](https://github.com/murtekbey?tab=followers)
+
 [![GitHub stars](https://img.shields.io/github/stars/murtekbey?style=social)](https://github.com/murtekbey?tab=repositories)
 [![Github visitors](https://komarev.com/ghpvc/?username=murtekbey)](https://github.com/murtekbey)
 
